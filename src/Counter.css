@@ -1,0 +1,34 @@
+.Counter {
+    border: 1px solid #282c34;
+    max-width: 600px;
+    margin:auto;
+    margin-top: 15px;
+    padding: 30px;
+    font-size: 22px;
+}
+
+.Counter button {
+    background-color: blueviolet;
+    color: white;
+    font-weight: 700;
+    padding: 10px 46px;
+    border: none;
+    cursor: pointer;
+    margin: 10px 10px;
+}
+
+.Counter button:hover {
+    background-color: rgb(161, 101, 217);;
+}
+
+.blue {
+    color: rgb(0, 0, 215)
+}
+span {
+    color: rgb(255, 100, 0);
+}
+
+.cyfra {
+    margin: 20px;
+    width: 50px;
+}
